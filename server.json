@@ -1,0 +1,71 @@
+{
+    "ver": 20220907,
+    "data": [
+        {
+            "comment": "aya",
+            "ip": "aya0.top",
+            "port": 11451,
+            "flag": "cn"
+        },
+        {
+            "comment": "老王服务器",
+            "ip": "wang54188.iask.in",
+            "port": 11451,
+            "flag": "cn"
+        },
+        {
+            "comment": "Server 3",
+            "ip": "139.155.72.235",
+            "port": 11451,
+            "flag": "cn"
+        },
+        {
+            "comment": "Server 4",
+            "ip": "124.221.52.85",
+            "port": 11451,
+            "flag": "cn"
+        },
+        {
+            "comment": "Server 5",
+            "ip": "106.13.230.72",
+            "port": 11451,
+            "flag": "cn"
+        },
+        {
+            "comment": "Server 6",
+            "ip": "81.70.7.30",
+            "port": 11451,
+            "flag": "cn"
+        },
+        {
+            "comment": "Server 7",
+            "ip": "www.enptysun.ga",
+            "port": 11556,
+            "flag": "cn"
+        },
+        {
+            "comment": "Server 8",
+            "ip": "joinsg.net",
+            "port": 11453,
+            "flag": "us"
+        },
+        {
+            "comment": "Server 9",
+            "ip": "119.6.232.193",
+            "port": 11451,
+            "flag": "cn"
+        },
+        {
+            "comment": "Server 10",
+            "ip": "124.223.203.187",
+            "port": 11451,
+            "flag": "cn"
+        },
+        {
+            "comment": "Server 11",
+            "ip": "159.75.87.168",
+            "port": 11451,
+            "flag": "cn"
+        }
+    ]
+}
