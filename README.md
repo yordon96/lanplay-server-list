@@ -1,1 +1,2 @@
-# lanplay-server
+# lanplay-server-list
+本项目为搜集目前可用lanplay服务器地址，不定期更新，可直接在lanplay flutter自定义更新源中输入本地址获取自动更新，其它客户端需手动输入
