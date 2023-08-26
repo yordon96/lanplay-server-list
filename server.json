@@ -1,71 +1,77 @@
 {
-    "ver": 20220907,
+    "ver": 20230826,
     "data": [
         {
-            "comment": "aya",
+            "comment": "yordon(嘉兴家宽电信)",
+            "ip": "yordon.cn",
+            "port": 11451,
+            "flag": "cn"
+        },
+        {
+            "comment": "aya(深圳家宽电信)",
             "ip": "aya0.top",
             "port": 11451,
             "flag": "cn"
         },
         {
-            "comment": "老王服务器",
-            "ip": "wang54188.iask.in",
+            "comment": "177(深圳家宽电信)",
+            "ip": "177040122.xyz:11451",
             "port": 11451,
             "flag": "cn"
         },
+        // {
+        //     "comment": "enptysun(徐州家宽电信)",
+        //     "ip": "www.enptysun.ga",
+        //     "port": 11556,
+        //     "flag": "cn"
+        // },
         {
-            "comment": "Server 3",
-            "ip": "139.155.72.235",
-            "port": 11451,
-            "flag": "cn"
-        },
-        {
-            "comment": "Server 4",
+            "comment": "上海腾讯云",
             "ip": "124.221.52.85",
             "port": 11451,
             "flag": "cn"
         },
+        // {
+        //     "comment": "上海腾讯云2",
+        //     "ip": "124.223.203.187",
+        //     "port": 11451,
+        //     "flag": "cn"
+        // },
         {
-            "comment": "Server 5",
-            "ip": "106.13.230.72",
-            "port": 11451,
-            "flag": "cn"
-        },
-        {
-            "comment": "Server 6",
-            "ip": "81.70.7.30",
-            "port": 11451,
-            "flag": "cn"
-        },
-        {
-            "comment": "Server 7",
-            "ip": "www.enptysun.ga",
-            "port": 11556,
-            "flag": "cn"
-        },
-        {
-            "comment": "Server 8",
-            "ip": "joinsg.net",
-            "port": 11453,
-            "flag": "us"
-        },
-        {
-            "comment": "Server 9",
+            "comment": "成都企业联通",
             "ip": "119.6.232.193",
             "port": 11451,
             "flag": "cn"
         },
         {
-            "comment": "Server 10",
-            "ip": "124.223.203.187",
+            "comment": "四川眉山联通",
+            "ip": "112.192.20.196",
             "port": 11451,
             "flag": "cn"
         },
         {
-            "comment": "Server 11",
-            "ip": "159.75.87.168",
+            "comment": "广州腾讯云1",
+            "ip": "119.91.238.155",
             "port": 11451,
             "flag": "cn"
+        },
+        {
+            "comment": "芝加哥服务器",
+            "ip": "joinsg.net",
+            "port": 11453,
+            "flag": "us"
+        },
+        {
+            "comment": "美国加州服务器",
+            "ip": "tekn0.net:11451",
+            "port": 11451,
+            "flag": "us"
+        },
+        {
+            "comment": "荷兰服务器",
+            "ip": "switch.jayseateam.nl",
+            "port": 11451,
+            "flag": "nl"
         }
     ]
 }
